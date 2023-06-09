@@ -1,0 +1,7 @@
+.appface{
+  display: flex;
+  width: 100vw;
+  flex-direction: flex;
+  align-items: start;
+  justify-content: start;
+}

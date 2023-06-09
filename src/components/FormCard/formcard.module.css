@@ -1,0 +1,7 @@
+.container{
+    justify-content: center;
+    background-color: #1B3B6F;
+    margin: 10vh;
+    padding: 2vh;
+    border-radius: 9px;
+}

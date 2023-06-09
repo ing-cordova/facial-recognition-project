@@ -1,0 +1,46 @@
+.appface {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.video video {
+    border: 2px solid #ff00ff;
+    /* Cambia el color a tu gusto */
+    border-radius: 8px;
+    /* Agrega esquinas redondeadas si lo deseas */
+    padding: 4px;
+    /* Agrega un poco de espacio entre el borde y el video si lo deseas */
+}
+
+.canva {
+    position: absolute;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.allowedText {
+    margin-top: 15px;
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 5px;
+    color: white;
+    background-color: #2a9d8f;
+}
+
+.notallowedText {
+    margin-top: 15px;
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 5px;
+    color: white;
+    background-color: #e76f51;
+}
