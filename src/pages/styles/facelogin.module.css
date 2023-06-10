@@ -17,6 +17,7 @@
 }
 
 .canva {
+    top: 95px;
     position: absolute;
 }
 
@@ -29,7 +30,7 @@
 
 .allowedText {
     margin-top: 15px;
-    border: 2px solid red;
+    border: 2px solid green;
     border-radius: 8px;
     padding: 5px;
     color: white;
